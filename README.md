@@ -11,11 +11,11 @@ ReactJS web application to search for repositories on github, and using typescri
 
 ## Dashboard
 
-![dashboard](https://github.com/Vinicius-A-R/typescript-repository/blob/master/public/img/dashboard.png?raw=true)
+![dashboard](https://github.com/Vinicius-A-R/typescript-repository/blob/main/public/img/dashboard.png?raw=true)
 
 ## Repository
 
-![dashboard](https://github.com/Vinicius-A-R/typescript-repository/blob/master/public/img/repository.png?raw=true)
+![dashboard](https://github.com/Vinicius-A-R/typescript-repository/blob/main/public/img/repository.png?raw=true)
 
 ## How to start
 
